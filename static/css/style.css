@@ -1,9 +1,6 @@
-body {
-
-    color: #f7f7f7;
-  }
-  .jumbotron {
-    background-image: url("file:///C:/Users/Kelly/Desktop/Class/UFO/static/images/nasa.jpg");
-    background-size: 100% 100%;
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 200%;
     text-align: center;
+    color: "grey"
   }
